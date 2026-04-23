@@ -14,5 +14,5 @@
 | `is_active` | `bool` | Контроль циклу |
  
 ## 4. Архітектура та Дизайн
-- 🗺️ **Схема логіки:** [Посилання на Draw.io]
+- 🗺️ **Схема логіки:** [(https://app.diagrams.net/?src=about#HSashlic%2FSashlichok9.1%2Fmain%2FDiagram%20%23%7B%22pageId%22%3A%22uTdAVK5Kdu0DablCpbVy%22%7D)]
 - 🎨 **Дизайн:** [Посилання на Figma]
